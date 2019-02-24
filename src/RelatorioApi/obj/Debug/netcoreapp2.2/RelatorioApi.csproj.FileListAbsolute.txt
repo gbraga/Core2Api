@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.deps.json
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.runtimeconfig.json
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.dll
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.pdb
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.RazorAssemblyInfo.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.RazorAssemblyInfo.cs
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.dll
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.pdb
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.Dominio.dll
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\bin\Debug\netcoreapp2.2\RelatorioApi.Dominio.pdb
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi\obj\Debug\netcoreapp2.2\RelatorioApi.csproj.CopyComplete

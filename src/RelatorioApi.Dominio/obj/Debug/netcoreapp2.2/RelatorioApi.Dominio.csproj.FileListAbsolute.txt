@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\bin\Debug\netcoreapp2.2\RelatorioApi.Dominio.deps.json
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\bin\Debug\netcoreapp2.2\RelatorioApi.Dominio.dll
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\bin\Debug\netcoreapp2.2\RelatorioApi.Dominio.pdb
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.dll
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.pdb
+C:\Users\gabri\source\repos\CoreApi\src\RelatorioApi.Dominio\obj\Debug\netcoreapp2.2\RelatorioApi.Dominio.csprojAssemblyReference.cache
