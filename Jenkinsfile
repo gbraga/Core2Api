@@ -4,8 +4,8 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'dotnet restore CoreApi.sln'
-                echo 'dotnet build'
+                dotnet restore
+                dotnet build
 	    }
         }
         stage('Test') {
